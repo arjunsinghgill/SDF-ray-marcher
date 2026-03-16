@@ -1,5 +1,5 @@
 # SDF Ray Marcher
-# NodeJS WebGL2 SDF
+## NodeJS WebGL2 SDF
 
 An SDF (Signed Distance Function) ray marcher is a rendering technique that creates 3D graphics by iteratively stepping a ray through a scene, using mathematical functions to determine the distance to the nearest surface. Unlike traditional polygon rasterization, this GPU-friendly method enables procedural modeling, soft shadows, and complex boolean operations (union/subtraction) on objects.
 
